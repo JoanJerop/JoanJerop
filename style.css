@@ -373,6 +373,30 @@ section {
     color: #e0e7ff;
 }
 
+/* Portfolio URL Styling */
+.portfolio-url {
+    margin-top: 1.5rem;
+    justify-content: center;
+}
+.portfolio-link {
+    background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+    color: #fff;
+    padding: 0.75rem 2rem;
+    border-radius: 30px;
+    font-weight: 600;
+    box-shadow: 0 4px 16px rgba(102,126,234,0.15);
+    transition: background 0.3s, transform 0.3s;
+    display: inline-block;
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+}
+.portfolio-link:hover {
+    background: linear-gradient(90deg, #764ba2 0%, #667eea 100%);
+    color: #e0e7ff;
+    transform: translateY(-2px) scale(1.05);
+    text-decoration: underline;
+}
+
 /* Footer */
 .footer {
     background: #1e293b;
