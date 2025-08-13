@@ -43,7 +43,12 @@ A versatile software engineer with expertise spanning multiple domains including
 
 ### 🌟 Professional Approach
 
+
 Committed to delivering robust, secure, and scalable solutions while maintaining high standards of code quality and system reliability. Experienced in bridging the gap between development, operations, and security to create comprehensive technology solutions.
+
+---
+
+🤝 I am also a proud volunteer through **Women in Tech Kenya**, supporting initiatives that empower women in technology and promote diversity in the industry.
 
 ---
 
