@@ -1,10 +1,10 @@
 # Joan Jerop
 
-## 👩‍💻 Professional Software Engineer
+## Professional Software Engineer
 
 A versatile software engineer with expertise spanning multiple domains including cybersecurity, application development, systems development, cloud engineering, and quality assurance.
 
-### 🔧 Technical Skills
+### Technical Skills
 
 - **Software Development**
   - Application Development
@@ -30,7 +30,7 @@ A versatile software engineer with expertise spanning multiple domains including
   - Performance Testing
   - Quality Control Processes
 
-### 💼 Core Competencies
+### Core Competencies
 
 - Full Software Development Lifecycle Management
 - Security-First Development Approach
@@ -41,14 +41,14 @@ A versatile software engineer with expertise spanning multiple domains including
 - Project Management
 - Team Collaboration
 
-### 🌟 Professional Approach
+### Professional Approach
 
 
 Committed to delivering robust, secure, and scalable solutions while maintaining high standards of code quality and system reliability. Experienced in bridging the gap between development, operations, and security to create comprehensive technology solutions.
 
 ---
 
-🤝 I am also a proud volunteer through **Women in Tech Kenya**, supporting initiatives that empower women in technology and promote diversity in the industry.
+I am also a proud volunteer through **Women in Tech Kenya**, supporting initiatives that empower women in technology and promote diversity in the industry.
 
 ---
 
